@@ -99,6 +99,7 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/112244898/236746758-c428db4f-d256-4b64-b7c0-2908775d7359.png)
 1.LINE PLOT
+
 ![image](https://user-images.githubusercontent.com/112244898/236746843-f02e6101-694e-45b4-85ee-7cbda08996fe.png)
 
 ![image](https://user-images.githubusercontent.com/112244898/236746873-2a8c97b4-9254-4ef0-b83a-3fdcbc43c045.png)
@@ -106,6 +107,7 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/112244898/236746896-18e47722-2263-4114-bb66-c62e5530097c.png)
 
 2.SCATTER PLOT
+
 ![image](https://user-images.githubusercontent.com/112244898/236746944-a9ae23a2-8849-413f-90be-fe4828192ef5.png)
 
 ![image](https://user-images.githubusercontent.com/112244898/236746976-2f825608-d8c3-47f8-914a-be27c4e0c76c.png)
@@ -123,6 +125,7 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/112244898/236747125-961b4fc6-4a37-41ba-aacf-4e7776cfc278.png)
 
 5.BAR PLOT
+
 ![image](https://user-images.githubusercontent.com/112244898/236747188-8c24b284-ed10-468b-9231-0fef012a4ea4.png)
 
 ![image](https://user-images.githubusercontent.com/112244898/236747221-aa6da4f5-bcdd-4d72-966c-667d72298d42.png)
